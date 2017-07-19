@@ -1,0 +1,40 @@
+[…®√Ë«π#1]
+GUNID=\\?\HID#VID_0C2E&PID_0901&MI_00#7&179e4edb&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+1=
+2=22222222222
+3=3333333333333
+0=
+[…®√Ë«π#2]
+GUNID=\\?\HID#VID_0C2E&PID_0901&MI_00#7&179e4edb&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+1=
+2=111111111111111
+3=111111111111
+0=
+[…®√Ë«π#3]
+GUNID=\\?\HID#VID_0C2E&PID_0901&MI_00#7&179e4edb&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+1=
+2=111111111111
+3=111111111111111111
+0=
+
+[DIALOG]
+program path=C:\Users\Administrator\Desktop\FATS◊‘∂Ø≤‚ ‘\test\FATS\Debug\FATSSettings.ini
+open=0
+model=WPF1
+gunid=2
+barcodenum=1
+barcodebit=32
+
+[COM port]
+port1=1
+port2=0
+port3=0
+[CONFIG FILE]
+File path=C:\Users\Administrator\Desktop\FATS◊‘∂Ø≤‚ ‘\test\FATS\Debug\≤‚ ‘.xlsx
+[VERSION]
+ver=1.3.0
+[FTP]
+IP=172.16.87.20
+User=publlic
+Password=33343666
+Port=21
